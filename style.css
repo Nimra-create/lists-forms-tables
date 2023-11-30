@@ -1,0 +1,124 @@
+/* ul{
+    list-style-type: disc;
+} */
+
+/* ordered list */
+/* ol{
+    list-style-type: lower-roman;
+} */
+
+/* images for bullets */
+/* ul{
+    list-style-image: url("./images/icons8-arrow-20.png");
+}
+
+    li {
+        margin: 10px 0px 0px 0px;} */
+
+        /* list-style position */
+        /* .illuminations{
+            list-style-position: outside;
+        }
+.seasons{
+    list-style-position: inside;
+} */
+/* list shorthand */
+/* ul{
+    list-style: inside circle;
+} */
+/* table properties */
+/* table{
+    width: 600px;
+    border: 1px solid red;
+    padding: 20px;
+    text-transform: capitalize;
+    /* letter-spacing: 2px; */
+    /* font-size: xx-large;
+    border-top: 1px solid top;
+    border-bottom: 1px solid green;
+
+} */ 
+/* table,td,th{
+    border: 1px solid red;
+    border-collapse: collapse;
+    text-align: left;
+} */
+/* table{
+    background-color: aqua;
+} */
+/* tr:hover{
+    background-color: aqua
+    cursor:pointer;
+} */
+/* td{
+    padding: 20px;
+} */
+/* th{
+    font-weight: bolder;
+    color: brown;
+    background-color: ;
+} */
+/* .even{
+    background-color: black;
+    color: white;
+} */
+/* table{
+    empty-cells: show;
+    
+} */
+/* gaps between cells */
+/* td {
+    background-color: #0088dd;
+    padding: 15px;
+    border: 2px solid #000000;}
+    table {
+   border-collapse: collapse;}
+      */
+    /* forms styling */
+    #ln{
+        margin-top: 5px;
+    }
+    /* input{
+        font-size: large;
+        color:white;
+        background-color: black;
+    }
+     */
+     
+     /* input:hover{
+        background-color: blue;
+     }
+     input:focus{
+        border: 5px solid red;
+        outline: none;
+     }
+     #email{
+        background-image: url("./images/icons8-email-48.png");
+        background-repeat: no-repeat;
+        padding-left: 20px;
+        background-size: contain;
+     }
+     #github{
+        background-image: url("./images/icons8-github-48.png");
+        background-repeat: no-repeat;
+        padding-left: 20px;
+        background-size: contain;
+     } */
+     /* fieldset {
+        width: 350px;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 20px;
+        text-align: right;}
+        legend {
+        background-color: #efefef;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 10px 20px;
+        text-align: left;
+        text-transform: uppercase;} */
+
+        /* cursor-styles */
+        #submit-btn{
+            cursor: pointer;
+        }
